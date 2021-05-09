@@ -53,3 +53,15 @@
     flex-flow: column wrap;
     height: 250px;
 }
+
+/* PARTE MOBILE */
+
+.cabecalhoPrincipal-nav {
+    flex-direction: column;
+}
+
+.cabecalhoPrincipal .container {
+    flex-direction: column;
+    align-items: initial;
+    text-align: center;
+}
